@@ -125,23 +125,8 @@ StudyNowAI/
 
 ## 🚢 Deployment
 
-### Frontend (Vercel)
-
-* Connect GitHub repository
-* Set `VITE_API_URL` in Vercel environment variables
-* Deploy automatically on push
-
-### Backend (Railway, Render, AWS, etc.)
-
-* Upload backend repo
-* Add environment variables
-* Deploy and test API
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+### Frontend (AWS - S3 Bucket)
+### Backend (AWS - EC2 Instances)
 
 ---
 
