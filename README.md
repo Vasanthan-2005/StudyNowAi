@@ -126,16 +126,7 @@ StudyNowAI/
 ## 🚢 Deployment
 
 ### Frontend (AWS - S3 Bucket)
-
-* Connect GitHub repository
-* Set `VITE_API_URL` in Vercel environment variables
-* Deploy automatically on push
-
 ### Backend (AWS - EC2 Instances)
-
-* Upload backend repo
-* Add environment variables
-* Deploy and test API
 
 ---
 
