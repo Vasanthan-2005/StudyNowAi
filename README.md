@@ -139,12 +139,6 @@ StudyNowAI/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🤖 AI Tools Used
 
 * [ChatGPT](https://chat.openai.com/) – for architecture planning, code suggestions, and documentation
